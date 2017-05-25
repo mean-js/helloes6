@@ -7,7 +7,7 @@
             "type": "node",
             "request": "launch",
             "name": "GULP WATCH",
-            "program": "${workspaceRoot}/gulp.babel.js",
+            "program": "${workspaceRoot}/gulpfile.js",
             "args": [
                 "task"
             ]
