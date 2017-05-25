@@ -1,22 +1,29 @@
 {
-  "name": "helloes6",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-register": "^6.24.1",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2",
-    "pump": "^1.0.2"
-  }
+    "name": "helloes6",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "underscore": "^1.8.3"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.24.1",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-register": "^6.24.1",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^6.1.2",
+        "pump": "^1.0.2"
+    },
+    "babel": {
+        "presets": [
+            "es2015"
+        ],
+        "sourceMaps": true,
+        "retainLines": true
+    }
 }
