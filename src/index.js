@@ -1,4 +1,4 @@
-import cityList from 'collections/helloarray';
+let cityList = [];
 
-
+console.log(cityList);
 console.log(cityList);

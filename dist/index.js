@@ -1,0 +1,7 @@
+"use strict";
+
+var cityList = [];
+
+console.log(cityList);
+console.log(cityList);
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImNpdHlMaXN0IiwiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxJQUFJQSxXQUFXLEVBQWY7O0FBRUFDLFFBQVFDLEdBQVIsQ0FBWUYsUUFBWjtBQUNBQyxRQUFRQyxHQUFSLENBQVlGLFFBQVoiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJsZXQgY2l0eUxpc3QgPSBbXTtcblxuY29uc29sZS5sb2coY2l0eUxpc3QpO1xuY29uc29sZS5sb2coY2l0eUxpc3QpOyJdfQ==

@@ -1,0 +1,4 @@
+"use strict";
+
+console.log(undefined);
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNhbXBsZS90ZXN0LmpzIl0sIm5hbWVzIjpbImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiI7O0FBQUFBLFFBQVFDLEdBQVIiLCJmaWxlIjoic2FtcGxlL3Rlc3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZyh0aGlzKTsiXX0=

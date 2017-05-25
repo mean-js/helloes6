@@ -1,0 +1,11 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var cityList = ["MUMBAI", "KOLKATA", "CHENNAI", "DELHI"];
+
+console.log("HELLO");
+
+exports.default = cityList;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbGxlY3Rpb25zL2hlbGxvYXJyYXkuanMiXSwibmFtZXMiOlsiY2l0eUxpc3QiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOzs7OztBQUFBLElBQUlBLFdBQVcsQ0FBQyxRQUFELEVBQVcsU0FBWCxFQUFzQixTQUF0QixFQUFpQyxPQUFqQyxDQUFmOztBQUVBQyxRQUFRQyxHQUFSLENBQVksT0FBWjs7a0JBRWVGLFEiLCJmaWxlIjoiY29sbGVjdGlvbnMvaGVsbG9hcnJheS5qcyIsInNvdXJjZXNDb250ZW50IjpbImxldCBjaXR5TGlzdCA9IFtcIk1VTUJBSVwiLCBcIktPTEtBVEFcIiwgXCJDSEVOTkFJXCIsIFwiREVMSElcIl07XG5cbmNvbnNvbGUubG9nKFwiSEVMTE9cIik7XG5cbmV4cG9ydCBkZWZhdWx0IGNpdHlMaXN0OyJdfQ==
