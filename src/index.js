@@ -1,6 +1,6 @@
-import cityList from "./collections/helloarray";
-import { option1 } from "./collections/helloarray";
+import cityList, { option1, option2 } from "./collections/helloarray";
 
 
-let sres = option1();
-console.log(sres);
+let sres1 = option1();
+let sres2 = option2();
+console.log(sres1);

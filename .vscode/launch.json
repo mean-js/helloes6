@@ -7,6 +7,12 @@
     "configurations": [{
             "type": "node",
             "request": "launch",
+            "name": "INDEX-NODE",
+            "program": "${workspaceRoot}/src/index-node.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "DIST-INDEX",
             "program": "${workspaceRoot}/dist/index.js"
         },
